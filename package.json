@@ -1,0 +1,22 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "description": "node index.js --action list https://monosnap.com/file/amaY6dMsqxQ61bmnvTi7cXDv5BYQT3",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
