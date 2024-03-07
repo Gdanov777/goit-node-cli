@@ -1,5 +1,5 @@
-.vscode/
-.idea/
-
-# dependencies
 /node_modules
+.idea
+.vscode
+.env
+.env.local
